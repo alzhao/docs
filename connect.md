@@ -39,6 +39,7 @@ There are a two ways to go about connecting your Photon over USB, depending on y
 
 
 ##Using Windows
+![some text](images/img.jpg)
 
 We're going to install the Particle CLI on your computer. If you already have node.js installed, you can skip to [this step](#installing-the-particle-cli).
 
